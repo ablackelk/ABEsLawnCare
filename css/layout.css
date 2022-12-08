@@ -290,6 +290,18 @@ article div p {
 footer {
 	font-size: 0.9em;
 }
+footer {
+width: 900px;
+margin: 0;
+padding: 10px;
+background-color: gray;
+clear: both;
+color: black;
+font-weight: bold;
+text-align: center;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+}
 }
 
 
